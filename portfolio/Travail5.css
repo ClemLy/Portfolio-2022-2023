@@ -1,0 +1,32 @@
+html, body, p, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #07348F;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: x-large;
+}
+
+.txtOral{
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 50%;
+	position: absolute;
+}
+
+.imageOral{
+	border: 3px;
+	border-radius: 6px;
+	border-color: #07348F;
+	border-style: solid;
+	width: 500px;
+	margin-left: 60%;
+	margin-top: 10px;
+	position: absolute;
+}

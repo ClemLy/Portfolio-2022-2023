@@ -1,0 +1,72 @@
+html, body, p, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #C00000;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: x-large;
+}
+
+.txtOral{
+	text-align: left;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 10px;
+	margin-right: 50%;
+	position: absolute;
+}
+
+.txtOral h2{
+	text-align: center;
+}
+
+.txtOral2{
+	text-align: left;
+	font-size: 20px;
+	margin-top: 750px;
+	margin-left: 10px;
+	margin-right: 50%;
+	position: absolute;
+}
+
+.txtOral2 h2{
+	text-align: center;
+}
+
+.imageOral{
+	border: 3px;
+	border-radius: 6px;
+	border-color: #C00000;
+	border-style: solid;
+	width: 46%;
+	margin-left: 750px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+.imageOral2{
+	border: 3px;
+	border-radius: 6px;
+	border-color: #C00000;
+	border-style: solid;
+	width: 46%;
+	margin-left: 750px;
+	margin-top: 600px;
+	position: absolute;
+}
+
+hr {
+	border: none;
+	position: absolute;
+	top: 650px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 700px;
+	height: 5px;
+	background-color: #C00000;
+	border-radius: 3px;
+}

@@ -1,0 +1,107 @@
+html, body, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: x-large;
+}
+
+.block{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+
+.pro{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 40%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+}
+
+.pro ul li{
+	margin-bottom: 25px;
+}
+
+.critique{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 40%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.crit{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.crit1{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 20%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.crit2{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 20%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.crit3{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 20%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.crit4{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 20%;
+	background-color: #F79152;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}

@@ -1,0 +1,72 @@
+html, body, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #92D050;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: x-large;
+}
+
+.critique{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 30%;
+	background-color: #92D050;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 35%;
+	margin-top: 50px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.crit{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.crit1{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 30%;
+	background-color: #92D050;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.crit2{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 30%;
+	background-color: #92D050;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.crit3{
+	border: 1px;
+	border-radius: 6px;
+	border-color: black;
+	border-style: solid;
+	width: 30%;
+	background-color: #92D050;
+	font-family: 'WildWest', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+}
