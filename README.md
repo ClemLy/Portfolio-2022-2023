@@ -19,7 +19,7 @@ git clone https://github.com/ClemLy/Portfolio-2022-2023.git
 
 Dans ce Portfolio, vous trouverez les éléments suivants :
 
-- **Présentation personnelle et projets futurs :** Vous découvrirez une présentation de ma personne ainsi que mes projets futurs.
+- **Présentation personnelle et projets futurs :** Vous découvrirez une présentation de ma personne ainsi que mes projets futurs en cliquant sur mon nom en bas de la page d'accueil.
 
 - **Compétences :** Sur la gauche de la page d'accueil, vous trouverez un menu déroulant répertoriant les compétences que j'ai acquises au cours de cette année. En cliquant sur chaque compétence, vous aurez accès à une explication de la compétence et des preuves de mon acquisition de celle-ci, avec des liens cliquables pour accéder à des détails spécifiques. Parfois, vous trouverez des précisions indiquant quel projet est en lien avec la compétence, comme par exemple "Travail 2 (Graphe)".
 
